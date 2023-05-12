@@ -1,0 +1,12 @@
+.Experience{
+    display:flex;
+    flex-direction:column;
+    color:white;
+}
+
+.TableLine{
+    display:flex;
+    flex-direction:row;
+    align-items: flex-start;
+    gap:20px
+}

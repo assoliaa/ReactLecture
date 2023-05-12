@@ -1,0 +1,21 @@
+.About{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    color:white;
+    align-self:center;
+}
+
+.love{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.mylove{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items:center;
+    gap:12px
+}

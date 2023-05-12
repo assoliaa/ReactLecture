@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    color: #FFFFFF;
+}
+.sideInfo{
+    display:flex;
+    flex-direction: row;
+    gap:32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
